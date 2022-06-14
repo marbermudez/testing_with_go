@@ -1,2 +1,2 @@
-# testing_with_go
+# TDD con Go
 Repo para testear funcionalidades de Go.
